@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "veil",
+  "base_artist": "Keina Suda",
+  "createdAt": "2025-12-04T14:11:39.151028Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Long Black Veil",
+      "artist": "Lefty Frizzell",
+      "has_synced": true,
+      "path": "select/01_Long_Black_Veil_Lefty_Frizzell.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Long Black Veil (Album Version)",
+      "artist": "Lefty Frizzell",
+      "has_synced": true,
+      "path": "select/02_Long_Black_Veil_(Album_Version)_Lefty_Frizzell.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Long Black Veil",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/03_The_Long_Black_Veil_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Veil of Darkness",
+      "artist": "yeule",
+      "has_synced": true,
+      "path": "select/04_Veil_of_Darkness_yeule.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Take The Veil Cerpin Taxt",
+      "artist": "The Mars Volta",
+      "has_synced": true,
+      "path": "select/05_Take_The_Veil_Cerpin_Taxt_The_Mars_Volta.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Take The Veil Cerpin Taxt",
+      "artist": "The Mars Volta",
+      "has_synced": false,
+      "path": "select/06_Take_The_Veil_Cerpin_Taxt_The_Mars_Volta.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Long Black Veil",
+      "artist": "Nick Cave & The Bad Seeds",
+      "has_synced": true,
+      "path": "select/07_Long_Black_Veil_Nick_Cave_&_The_Bad_Seeds.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Veronica's Veil",
+      "artist": "Fan Death",
+      "has_synced": false,
+      "path": "select/08_Veronica's_Veil_Fan_Death.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Long Black Veil",
+      "artist": "The Proclaimers",
+      "has_synced": false,
+      "path": "select/09_Long_Black_Veil_The_Proclaimers.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Long Black Veil",
+      "artist": "The Chieftains",
+      "has_synced": false,
+      "path": "select/10_The_Long_Black_Veil_The_Chieftains.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Long Black Veil",
+      "artist": "The Stranglers",
+      "has_synced": false,
+      "path": "select/11_Long_Black_Veil_The_Stranglers.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ash/Black Veil",
+      "artist": "Apparat",
+      "has_synced": true,
+      "path": "select/12_Ash_Black_Veil_Apparat.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Long Black Veil - Remastered",
+      "artist": "The Band",
+      "has_synced": false,
+      "path": "select/13_Long_Black_Veil_-_Remastered_The_Band.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Veil",
+      "artist": "Scandroid",
+      "has_synced": true,
+      "path": "select/14_The_Veil_Scandroid.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Veil - Instrumental",
+      "artist": "Scandroid",
+      "has_synced": false,
+      "path": "select/15_The_Veil_-_Instrumental_Scandroid.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "veil",
+      "artist": "須田景凪",
+      "has_synced": false,
+      "path": "select/pl_01_veil_須田景凪.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "veil",
+      "artist": "須田景凪",
+      "has_synced": false,
+      "path": "select/pl_02_veil_須田景凪.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "veil",
+      "artist": "須田景凪",
+      "has_synced": false,
+      "path": "select/pl_03_veil_須田景凪.txt"
+    }
+  ]
+}
